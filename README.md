@@ -5,9 +5,9 @@ This project uses Web Scraping and Automation. By automation it goes to a share 
 Language :Javascript
 
 node modules used in this project:
-Puppeteer
-Cheerio
-Pdfkit
-xlsx
-fs
+Puppeteer,
+Cheerio,
+Pdfkit,
+xlsx,
+fs,
 path
